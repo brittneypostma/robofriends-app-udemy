@@ -1,5 +1,7 @@
 {
   "name": "Robofriends App",
+  "start_url": ".",
+  "display": "standalone",
   "description": "Where Robots make friends.",
   "version": "0.0.0.1",
   "manifest_version": 2,
@@ -11,8 +13,7 @@
     }
   ],
   "app": {
-    "start_url": ".",
-    "display": "standalone",
+    
     "urls": [
       "https://sballgirl11.github.io/robofriends-app-udemy"
     ],
