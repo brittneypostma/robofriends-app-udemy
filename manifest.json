@@ -8,20 +8,10 @@
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
-    },
-    {
-      "src": "https://github.com/sballgirl11/robofriends-app-udemy/android-chrome-192.192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "https://github.com/sballgirl11/robofriends-app-udemy/android-chrome-256x256.png",
-      "sizes": "512x512",
-      "type": "image/png"
     }
   ],
   "app": {
-    "start_url": ".",
+    "start_url": "./index.html",
     "display": "standalone",
     "urls": [
       "https://sballgirl11.github.io/robofriends-app-udemy"
