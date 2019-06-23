@@ -10,12 +10,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "https://sballgirl11/robofriends-app-udemy/android-chrome-192.192.png",
+      "src": "/android-chrome-192.192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://sballgirl11/robofriends-app-udemy/android-chrome-256x256.png",
+      "src": "/android-chrome-256x256.png",
       "sizes": "512x512",
       "type": "image/png"
     }
